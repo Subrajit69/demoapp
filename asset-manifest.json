@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/demoapp/static/css/main.9aaa16ed.chunk.css",
+    "main.js": "/demoapp/static/js/main.cb92a33e.chunk.js",
+    "main.js.map": "/demoapp/static/js/main.cb92a33e.chunk.js.map",
+    "runtime-main.js": "/demoapp/static/js/runtime-main.03384ed4.js",
+    "runtime-main.js.map": "/demoapp/static/js/runtime-main.03384ed4.js.map",
+    "static/css/2.f14e511e.chunk.css": "/demoapp/static/css/2.f14e511e.chunk.css",
+    "static/js/2.4d43c288.chunk.js": "/demoapp/static/js/2.4d43c288.chunk.js",
+    "static/js/2.4d43c288.chunk.js.map": "/demoapp/static/js/2.4d43c288.chunk.js.map",
+    "index.html": "/demoapp/index.html",
+    "static/css/2.f14e511e.chunk.css.map": "/demoapp/static/css/2.f14e511e.chunk.css.map",
+    "static/css/main.9aaa16ed.chunk.css.map": "/demoapp/static/css/main.9aaa16ed.chunk.css.map",
+    "static/js/2.4d43c288.chunk.js.LICENSE.txt": "/demoapp/static/js/2.4d43c288.chunk.js.LICENSE.txt",
+    "static/media/Maintenance_1.f17799d4.svg": "/demoapp/static/media/Maintenance_1.f17799d4.svg",
+    "static/media/Mindcys_logo.3b605dd0.png": "/demoapp/static/media/Mindcys_logo.3b605dd0.png",
+    "static/media/about_us_1.057dd608.svg": "/demoapp/static/media/about_us_1.057dd608.svg",
+    "static/media/business_deal_1.536041e3.svg": "/demoapp/static/media/business_deal_1.536041e3.svg",
+    "static/media/stepping_up_1.46662329.svg": "/demoapp/static/media/stepping_up_1.46662329.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03384ed4.js",
+    "static/css/2.f14e511e.chunk.css",
+    "static/js/2.4d43c288.chunk.js",
+    "static/css/main.9aaa16ed.chunk.css",
+    "static/js/main.cb92a33e.chunk.js"
+  ]
+}
